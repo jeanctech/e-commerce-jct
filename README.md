@@ -1,4 +1,6 @@
-# Astro Starter Kit: Basics
+# Astro-App
+
+Documentation - Tutorial
 
 ```sh
 npm create astro@latest -- --template basics
