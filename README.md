@@ -1,56 +1,50 @@
-# Astro-App
+# Astro - Documentation
 
-Documentation - Tutorial
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
-```sh
-npm create astro@latest -- --template basics
-```
+## What is Astro?
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+Astro is an open source JavaScript framework for building websites and progressive web applications - Pwa. Astro is a modern, fast and optimized framework for creating all types of web experiences by reusing components. It's a great lighter alternative to React or Next.js for many use cases.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Index
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+* [Introduction](Introduction)
+* [Lesson 1 - Hello World](Hello-World)
+* [Lesson 30 - Conclusions](Conclusions)
+* [Next Steps](Next-Steps)
 
-## 🚀 Project Structure
+## Introduction
 
-Inside of your Astro project, you'll see the following folders and files:
+Astro is a new open source web framework created by Slack developers focused on providing the best development experience and performance. It was released in 2021 as a faster and lighter alternative to popular frameworks like Next.js or Remix. Astro seeks to combine the best of modern Ui frameworks with the simplicity, speed and durability of traditional static Html. And at the same time solve common problems with frameworks like Next.js or Remix.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Important information and frequently asked questions
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+* As soon as the course continues, I will update the repository and notify the networks.
+Thank you very much for all the support shown!
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Links of Interest
 
-## 🧞 Commands
+* [Astro Official Website](https://astro.build/)
 
-All commands are run from the root of the project, from a terminal:
+* [Official Astro in Spanish](https://docs.astro.build/en/getting-started/)
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+* [30 Days of Astro Repository](https://github.com/withastro/astro)
 
-## 👀 Want to learn more?
+* [Game to Learn Astro](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+
+* [Node.js](https://nodejs.org/en) - The framework Alternative to the above
+
+* [React.js](https://es.react.dev/) - The framework Alternative to the above
+
+* [Vue.js](https://vuejs.org/) - The framework Alternative to the above
+
+##
+
+#### You can support my work by "☆Star" the repo or nominate me for a "GitHub Star". Thank you!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
