@@ -10,7 +10,7 @@ Astro is an open source JavaScript framework for building websites and progressi
 ## Index
 
 * [Introduction](Introduction)
-* [Lesson 1 - Hello World](Hello-World)
+* [Lesson 01 - Hello World](Hello-World)
 * [Lesson 30 - Conclusions](Conclusions)
 * [Next Steps](Next-Steps)
 
@@ -35,13 +35,13 @@ Thank you very much for all the support shown!
 
 * [Game to Learn Astro](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using.
 
-* [Node.js](https://nodejs.org/en) - The framework Alternative to the above
+* [Node.js](https://nodejs.org/en) - The framework Alternative to the above.
 
-* [React.js](https://es.react.dev/) - The framework Alternative to the above
+* [React.js](https://es.react.dev/) - The framework Alternative to the above.
 
-* [Vue.js](https://vuejs.org/) - The framework Alternative to the above
+* [Vue.js](https://vuejs.org/) - The framework Alternative to the above.
 
 ##
 
