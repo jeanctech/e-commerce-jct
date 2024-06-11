@@ -2,7 +2,6 @@
 interface Props {
 	title: string;
 }
-
 const { title } = Astro.props;
 ---
 
@@ -20,6 +19,7 @@ const { title } = Astro.props;
 		<slot />
 	</body>
 </html>
+
 <style is:global>
 	:root {
 		--accent: 136, 58, 234;
