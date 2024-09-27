@@ -9,10 +9,10 @@ Astro is an open source JavaScript framework for building websites and progressi
 
 ## Index
 
-* [Introduction](Introduction)
-* [Lesson 01 - Hello World](Hello-World)
-* [Lesson 30 - Conclusions](Conclusions)
-* [Next Steps](Next-Steps)
+- [Introduction](Introduction)
+- [Lesson 01 - Hello World](Hello-World)
+- [Lesson 30 - Conclusions](Conclusions)
+- [Next Steps](Next-Steps)
 
 ## Introduction
 
@@ -22,26 +22,26 @@ Astro is a new open source web framework created by Slack developers focused on 
 
 Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
 
-* As soon as the course continues, I will update the repository and notify the networks.
-Thank you very much for all the support shown!
+- As soon as the course continues, I will update the repository and notify the networks.
+  Thank you very much for all the support shown!
 
 ## Links of Interest
 
-* [Astro Official Website](https://astro.build/)
+- [Astro Official Website](https://astro.build/)
 
-* [Official Astro in Spanish](https://docs.astro.build/en/getting-started/)
+- [Official Astro in Spanish](https://docs.astro.build/en/getting-started/)
 
-* [30 Days of Astro Repository](https://github.com/withastro/astro)
+- [30 Days of Astro Repository](https://github.com/withastro/astro)
 
-* [Game to Learn Astro](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
+- [Game to Learn Astro](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 
-* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using.
+- [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using.
 
-* [Node.js](https://nodejs.org/en) - The framework Alternative to the above.
+- [Node.js](https://nodejs.org/en) - The framework Alternative to the above.
 
-* [React.js](https://es.react.dev/) - The framework Alternative to the above.
+- [React.js](https://es.react.dev/) - The framework Alternative to the above.
 
-* [Vue.js](https://vuejs.org/) - The framework Alternative to the above.
+- [Vue.js](https://vuejs.org/) - The framework Alternative to the above.
 
 ##
 
